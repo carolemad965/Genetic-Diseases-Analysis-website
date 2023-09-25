@@ -8,6 +8,8 @@ The website is built on Django and uses a MongoDB database that includes collect
 Our database is collected from DisGeNET,
 DisGeNET is a publicly available database that integrates information on human genes and genetic diseases from various sources.
 It provides a comprehensive resource for researchers to explore the genetic basis of human diseases and to identify potential therapeutic targets.
+# All project Data and source code
+https://drive.google.com/drive/u/0/folders/1mslOKr6UMR_XtCiYZ45fZxc-O2aOfpsa
 
 
 
